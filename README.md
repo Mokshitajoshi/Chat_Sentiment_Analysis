@@ -40,11 +40,6 @@ This application allows users to upload their WhatsApp chat export files and gai
    ```
    pip install -r requirements.txt
    ```
-   
-   Alternatively, install packages individually:
-   ```
-   pip install streamlit pandas matplotlib seaborn wordcloud urlextract emoji
-   ```
 
 3. Run the application:
    ```
@@ -74,7 +69,7 @@ This application allows users to upload their WhatsApp chat export files and gai
 ![Dashboard Overview](Screenshots/Add_Chat_Text_File.png)
 ![Chats Overview](Screenshots/Message_Details.png)
 ![Word Cloud Example](Screenshots/Wordcloud.png)
-![Emoji Analysis](Screenshots/Emojii_analysis.png)
+![Emoji Analysis](Screenshots/Emojii_Analysis.png)
 
 ## Technologies Used
 
