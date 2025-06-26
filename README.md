@@ -32,8 +32,7 @@ This application allows users to upload their WhatsApp chat export files and gai
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
-   cd whatsapp-chat-analyzer
+   git clone https://github.com/Mokshitajoshi/Chat_Sentiment_Analysis.git
    ```
 
 2. Install the required dependencies:
