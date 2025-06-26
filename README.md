@@ -73,7 +73,7 @@ This application allows users to upload their WhatsApp chat export files and gai
 
 ![Dashboard Overview](Screenshots/Add_Chat_Text_File.png)
 ![Chats Overview](Screenshots/Message_Details.png)
-![Word Cloud Example](Screenshots/wordcloud.png)
+![Word Cloud Example](Screenshots/Wordcloud.png)
 ![Emoji Analysis](Screenshots/Emojii_analysis.png)
 
 ## Technologies Used
